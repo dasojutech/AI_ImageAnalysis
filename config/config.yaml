@@ -1,0 +1,11 @@
+aoi:
+  bbox: [-122.52, 37.70, -122.36, 37.83]
+
+vector:
+  place_name: "San Francisco, California, USA"
+
+sentinel:
+  start_date: "2023-01-01"
+  end_date: "2023-01-31"
+
+output_map_name: "../outputs/maps/aoi_overlay.png"
