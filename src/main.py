@@ -23,7 +23,7 @@
 # src/main.py
 import os
 import yaml
-from pipeline import run_pipeline
+from rawimage import run_pipeline
 
 # Load config from YAML
 config_path = os.path.join(os.path.dirname(__file__), "../config/config.yaml")
